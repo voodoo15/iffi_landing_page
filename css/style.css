@@ -36,7 +36,7 @@ p {
 	line-height: 24px;
 }
 a {
-	color: #4195bd;
+	color: #d61b1b;
 }
 a:hover, a:focus {
 	text-decoration: none;
@@ -68,7 +68,7 @@ ul, ol {
 hr {
 	height: 2px;
 	width: 60px;
-	background: #4195bd;
+	background: #d61b1b;
 	position: relative;
 	border: 0;
 	margin: 30px 0 0 0;
@@ -97,22 +97,22 @@ hr {
 	letter-spacing: 1px;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
-	color: #4195bd;
+	color: #d61b1b;
 }
 .on {
 	background-color: #222222 !important;
 	padding: 0 !important;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #4195bd !important;
+	color: #d61b1b !important;
 	background-color: transparent;
 }
 .navbar-toggle {
 	border-radius: 0;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-	background-color: #4195bd;
-	border-color: #4195bd;
+	background-color: #d61b1b;
+	border-color: #d61b1b;
 }
 .navbar-default .navbar-toggle:hover>.icon-bar {
 	background-color: #FFF;
@@ -122,7 +122,7 @@ hr {
 }
 /* Home Style */
 header {
-	background: url(../img/header-bg.jpg) no-repeat bottom center;
+	background: url(../img/header-bg_dark.jpg) no-repeat bottom center;
 	background-size: cover;
 	color: #cfcfcf;
 	position: relative;
@@ -148,22 +148,22 @@ header p {
 	font-weight: 600;
 }
 .color {
-	color: #4195bd;
+	color: #d61b1b;
 	font-weight: 700;
 }
 .btn-default {
-	color: #4195bd;
+	color: #d61b1b;
 	font-family: 'Open Sans', sans-serif;
 	background-color: transparent;
-	border: 1px solid #4195bd;
+	border: 1px solid #d61b1b;
 	border-radius: 4px;
 	margin: 0 8px;
 	font-size: 18px;
 	transition: all 0.5s;
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
-	background-color: #4195bd;
-	border: 1px solid #4195bd;
+	background-color: #d61b1b;
+	border: 1px solid #d61b1b;
 	color: #eeeeee;
 }
 /* About Section */
@@ -172,7 +172,7 @@ header p {
 	background-color: #f6f6f6;
 }
 #about-section h4 {
-	border-bottom: 1px solid #4195bd;
+	border-bottom: 1px solid #d61b1b;
 	padding-bottom: 20px;
 	display: inline-block;
 }
@@ -188,7 +188,7 @@ header p {
 	padding: 30px 0;
 }
 #team-section h3 {
-	border-top: 1px solid #4195bd;
+	border-top: 1px solid #d61b1b;
 	padding-top: 20px;
 	display: inline-block;
 }
@@ -211,7 +211,7 @@ img.team-img {
 	padding: 100px 0;
 }
 #services-section h4 {
-	border-bottom: 1px solid #4195bd;
+	border-bottom: 1px solid #d61b1b;
 	padding-bottom: 20px;
 	display: inline-block;
 }
@@ -221,7 +221,7 @@ img.team-img {
 #services-section i.fa {
 	font-size: 36px;
 	margin-right: 20px;
-	color: #4195bd;
+	color: #d61b1b;
 	padding-bottom: 10px;
 	display: block;
 }
@@ -245,13 +245,13 @@ ol.type li a {
 	color: #888;
 }
 ol.type li a.active {
-	color: #4195bd;
-	border-bottom: 1px solid #4195bd;
+	color: #d61b1b;
+	border-bottom: 1px solid #d61b1b;
 	padding-bottom: 8px;
 }
 ol.type li a:hover {
-	color: #4195bd;
-	border-bottom: 1px solid #4195bd;
+	color: #d61b1b;
+	border-bottom: 1px solid #d61b1b;
 	padding-bottom: 8px;
 }
 .isotope-item {
@@ -342,7 +342,7 @@ ol.type li a:hover {
 	padding: 30px 0;
 }
 #contact-section i.fa {
-	color: #4195bd;
+	color: #d61b1b;
 	margin-right: 20px;
 }
 label {
@@ -376,15 +376,15 @@ label {
 }
 #contact-section .btn {
 	background: transparent;
-	border: 1px solid #4195bd;
+	border: 1px solid #d61b1b;
 	border-radius: 4px;
 	padding: 10px 20px;
 	margin-top: 20px;
-	color: #4195bd;
+	color: #d61b1b;
 	font-size: 16px;
 }
 #contact-section .btn:hover, #contact-section .btn:focus {
-	background: #4195bd;
+	background: #d61b1b;
 	color: #fff;
 }
 #contact-section .text-danger {
@@ -413,7 +413,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #social-section .social i.fa {
 	font-size: 24px;
 	padding: 4px 5px;
-	color: #4195bd;
+	color: #d61b1b;
 	transition: all 0.5s;
 }
 #social-section .social i.fa:hover {
@@ -434,7 +434,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 #footer a:hover, #footer a:focus {
 	text-decoration: none;
-	color: #4195bd;
+	color: #d61b1b;
 }
 
 @media (max-width: 768px) {
