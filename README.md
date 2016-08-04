@@ -1,2 +1,3 @@
-# iffi_landing_page
-Landing Page for the company IFFI
+# IFFI Landing Page 
+
+This is the landing page for the company IFFI.
